@@ -295,7 +295,7 @@ docker compose up -d
 
 <img width="674" alt="Ekran Resmi 2024-06-28 13 00 23" src="https://github.com/ruesandora/Allora/assets/101149671/389e73a4-9e5f-4701-9b79-d22b7e5654bb">
 
-> Success çıktımızı aldıysak tebrikler.
+> Success çıktımızı aldıysak tebrikler
 
 #
 
